@@ -6,4 +6,7 @@ https://docs.spring.io/spring-ai/reference/api/chat/ollama-chat.html
 * Pull Ai-model for Ollama/Library
 https://ollama.com/library
 
-Validate if ollama is running: http://localhost:11434/
+* I tried using Mistral Model:
+https://ollama.com/library/mistral
+
+* Validate if ollama is running: http://localhost:11434/
